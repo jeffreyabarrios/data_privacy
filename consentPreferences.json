@@ -1,0 +1,52 @@
+{
+  "oqyuadnhh2": {
+    "location": "",
+    "consentPreferences": {
+      "personalizedRecommendations": true,
+      "dataSharingWithThirdParties": true
+    }
+  },
+  "ncrldflb3x": {
+    "location": "",
+    "consentPreferences": {}
+  },
+  "g8qg0frj6n": {
+    "location": "",
+    "consentPreferences": {
+      "personalizedRecommendations": false,
+      "dataSharingWithThirdParties": true
+    }
+  },
+  "wdfe821niz": {
+    "location": "",
+    "consentPreferences": {
+      "personalizedRecommendations": false,
+      "dataSharingWithThirdParties": true
+    }
+  },
+  "l0nsjv3xgf": {
+    "name": "jeffrey",
+    "consentPreferences": {
+      "personalizedRecommendations": true,
+      "dataSharingWithThirdParties": true
+    }
+  },
+  "5tcwadblkn": {
+    "name": "alejandro",
+    "consentPreferences": {
+      "personalizedRecommendations": true
+    }
+  },
+  "9zcnojkc87": {
+    "name": "ale",
+    "consentPreferences": {}
+  },
+  "jeffrey": {
+    "location": "",
+    "consentPreferences": {
+      "option1": true,
+      "option2": true,
+      "option3": true
+    }
+  }
+}
